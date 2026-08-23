@@ -1,7 +1,7 @@
 # AM4 mit Alpenföhn Gotthard CPU-Kühler
 Howto use an Alpenföhn Gotthard CPU Cooler on a modern AM4 mainboard with Ryzen CPU
 
-![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenf-hn_Gotthard/blob/main/imgs/AM4_Gotthard.jpg)
+![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenfoehn_Gotthard/blob/main/imgs/AM4_Gotthard.jpg)
 
 Leider ist der 2012 auf den Markt gebrachte Alpenföhn Gotthard CPU-Kühler schon lange wieder aus dem Programm genommen. Da Alpenfön (EKL AG aus Leutkirch im Allgäu) sehr gute und auch ausgefallene CPU-Kühler baut und auch der
 Alpenföhn Gotthard mit seinem Top-Blower-Konzept gleich das Mainboard und RAM mitkühlt, wollte ich diesen bei meinem neuen 12-Core Ryzen auf einem AM4-Sockel weiter verwenden.  Für eine gute Wärmeabfuhr sorgen sechs 6-mm-Heatpipes sowie 64 Lamellen aus Aluminium.
@@ -26,14 +26,14 @@ Ein Stresstest zeigt, dass AMD Ryzen 9 5900X Prozessor (12Kerne/24Threads, 105W 
  [Datenblatt vom Alpenföhn Gotthard im Internet Archiv](https://web.archive.org/web/20200403132511/https://www.alpenfoehn.de/images/Produkte/Datenblaetter/DatenblattGotthard.pdf)
 
 
-![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenf-hn_Gotthard/blob/main/imgs/StressTest.png)
-![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenf-hn_Gotthard/blob/main/imgs/WaterCoolingMountingKit2.jpg)
-![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenf-hn_Gotthard/blob/main/imgs/Montage0.jpg)
-![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenf-hn_Gotthard/blob/main/imgs/Montage1.jpg)
-![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenf-hn_Gotthard/blob/main/imgs/Montage2.jpg)
-![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenf-hn_Gotthard/blob/main/imgs/Montage3.jpg)
-![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenf-hn_Gotthard/blob/main/imgs/Montage4.jpg)
-![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenf-hn_Gotthard/blob/main/imgs/Sideview.jpg)
-![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenf-hn_Gotthard/blob/main/imgs/WaterCoolingMountingKit.jpg)
-![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenf-hn_Gotthard/blob/main/imgs/WaterCoolingMountingKit3.jpg)
+![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenfoehn_Gotthard/blob/main/imgs/StressTest.png)
+![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenfoehn_Gotthard/blob/main/imgs/WaterCoolingMountingKit2.jpg)
+![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenfoehn_Gotthard/blob/main/imgs/Montage0.jpg)
+![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenfoehn_Gotthard/blob/main/imgs/Montage1.jpg)
+![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenfoehn_Gotthard/blob/main/imgs/Montage2.jpg)
+![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenfoehn_Gotthard/blob/main/imgs/Montage3.jpg)
+![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenfoehn_Gotthard/blob/main/imgs/Montage4.jpg)
+![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenfoehn_Gotthard/blob/main/imgs/Sideview.jpg)
+![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenfoehn_Gotthard/blob/main/imgs/WaterCoolingMountingKit.jpg)
+![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenfoehn_Gotthard/blob/main/imgs/WaterCoolingMountingKit3.jpg)
 
