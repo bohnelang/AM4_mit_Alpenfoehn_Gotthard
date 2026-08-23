@@ -1,5 +1,5 @@
 # AM4 mit Alpenföhn Gotthard CPU-Kühler
-Howto use an Alpenföhn Gotthard CPU Cooler on a modern AM4 mainboard with Ryzen CPU
+Howto use an Alpenföhn Gotthard CPU cooler on a modern AM4 mainboard with Ryzen CPU
 
 ![Alpenfön Gotthard auf einem Ryzen](https://github.com/bohnelang/AM4_mit_Alpenfoehn_Gotthard/blob/main/imgs/AM4_Gotthard.jpg)
 
