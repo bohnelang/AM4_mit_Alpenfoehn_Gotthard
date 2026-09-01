@@ -21,7 +21,7 @@ Material:
 
 Und voilà der Alpenföhn Gotthard passt auf ein AM4 MSI MAG B550M Mortar Mainboard, das kompatibel mit den AMD Ryzen Prozessoren der dritten Generation ist. 
 
-Ein Stresstest zeigt, dass AMD Ryzen 9 5900X Prozessor (12Kerne/24Threads, 105W TDP, Sockel AM4, bis zu 4.3 GHz Max Boost) im Boost-Modus fast 150W zieht, welche aber auch vom CPU-Kühler mit seinen 6 Heatpipes gut abgeführt werden. Es versteht sich von selbst, dass man hier keine billige Wärmeleitpaste verwenden sollte. Als Lüfter kommt ein Arctic BioniX F140 (Geschwindigkeit: 200—1800 rpm, Luftstrom: 104 cfm, Geräuschpegel: 0,6 Sone) zum Einsatz, der selbst bei Volllast erstaunlich ruhig bleibt und die CPU bei 75 Grad Celsius hält. 
+Ein Stresstest zeigt, dass AMD Ryzen 9 5900X Prozessor (12Kerne/24Threads, 105W TDP, Sockel AM4, bis zu 4.3 GHz Max Boost) im Boost-Modus gut 140W zieht, welche aber auch vom CPU-Kühler mit seinen 6 Heatpipes gut abgeführt werden. Es versteht sich von selbst, dass man hier keine billige Wärmeleitpaste verwenden sollte. Als Lüfter kommt ein Arctic BioniX F140 (Geschwindigkeit: 200—1800 rpm, Luftstrom: 104 cfm, Geräuschpegel: 0,6 Sone) zum Einsatz, der selbst bei Volllast erstaunlich ruhig bleibt und die CPU bei 75 Grad Celsius hält. 
 
  [Datenblatt vom Alpenföhn Gotthard im Internet Archiv](https://web.archive.org/web/20200403132511/https://www.alpenfoehn.de/images/Produkte/Datenblaetter/DatenblattGotthard.pdf)
 
