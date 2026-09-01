@@ -10,7 +10,7 @@ Außerdem hat Alpenföhn hier auf eine hohe Kompatibilität mit hohen RAM- und M
 
 Leider ist der Alpenföhn Gotthard nur für die folgenden Sockel ausgeleg, was auf sein Entwicklungsjahr 2012 zurückzuführen ist:
 * Inel Sockel LGA2011/1266/1155/1156/775
-* AMD Sockel: AM3/AM3+/AM2/AM2+/FM1
+* AMD Sockel: AM3+/AM3/AM2+/AM2/FM1
 
 Wer hier eine moderne CPU mit AM4 oder AM5 Mainboard hat, muss also basteln. Es gibt zwar von Alpenfön für etwas neuere Kühler Upgrade-Mounting-Kits direkt bei ihnen 
 aber der Gotthard wird hier nicht als kompatibel erwähnt. 
